@@ -6,5 +6,4 @@ If you are using openCV 3 then use the opencv-contrib-python package instead of 
 * Install opencv-contrib-python by using 'pip install opencv-contrib-python'
 * Check whether you are able to import cv2 using terminal or any ide.
 * If the import fails on Windows, make sure you have Visual C++ redistributable 2015 installed. If you are using older Windows version than Windows 10 and latest system updates are not installed, Universal C Runtime might be also required.
-
-See also this issue if you are using Anaconda.
+* See this issue if you are using Anaconda and go the DLL error. https://github.com/skvark/opencv-python/issues/36
